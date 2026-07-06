@@ -23,7 +23,7 @@
 - DSA
 - SQL
 
-- ## My Projects
+## 🚀 Projects
 - Portfolio Website 
       - https://premtiwari07.github.io/portfolio/
 
