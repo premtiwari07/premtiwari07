@@ -26,6 +26,10 @@
 - ## My Projects
 - Portfolio Website 
       - https://premtiwari07.github.io/portfolio/
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=premtiwari07&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=premtiwari07&theme=tokyonight)
 <!--
 **premtiwari07/premtiwari07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
