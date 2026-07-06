@@ -1,5 +1,35 @@
 ## Hi there 👋
+# Hi 👋, I'm Prem Kumar Tiwari
 
+🎓 B.Tech AI & ML Student
+📍 UCET, Vinoba Bhave University
+🤖 Learning AI, Machine Learning & Python
+💻 Currently exploring Web Development
+🚀 Goal: Become an AI Engineer
+
+## 🛠 Tech Stack
+
+- Python
+- C++
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+## 📚 Currently Learning
+
+- Machine Learning
+- Python
+- DSA
+- SQL
+
+## 🎯 Goals 2026
+
+- ✅ Build 10 AI Projects
+- ✅ Learn Deep Learning
+- ✅ Contribute to Open Source
+- ✅ Get an Internship
 <!--
 **premtiwari07/premtiwari07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
