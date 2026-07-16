@@ -26,6 +26,8 @@
 ## 🚀 Projects
 - Portfolio Website 
       - https://premtiwari07.github.io/portfolio/
+  -AI Fake News Detector
+        -https://ai-fake-news-detector-el5g.onrender.com/
 ##
 ![GitHub Streak](https://streak-stats.demolab.com?user=premtiwari07&theme=tokyonight)
 <!--
