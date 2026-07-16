@@ -28,6 +28,8 @@
       - https://premtiwari07.github.io/portfolio/
 - AI Fake News Detector
       -https://ai-fake-news-detector-el5g.onrender.com/
+-  Research Paper
+      -📥 **[Crop Disease Detection using Deep Learning Techniques (PDF)](Crop_Disease_Detection_Research_Paper.pdf)**
 ##
 ![GitHub Streak](https://streak-stats.demolab.com?user=premtiwari07&theme=tokyonight)
 <!--
